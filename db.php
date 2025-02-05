@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'belatkao_test_elektro';
-$username = 'belatkao'; // Replace with your database username
-$password = 'Maninek151*'; // Replace with your database password
+$dbname = '';
+$username = ''; // Replace with your database username
+$password = ''; // Replace with your database password
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
