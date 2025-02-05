@@ -32,5 +32,5 @@ Welcome to the **E-Shop** project! This is a fully functional e-commerce website
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/eshop.git
+   git clone https://github.com/codelamszivotem/E-shop
    cd eshop
